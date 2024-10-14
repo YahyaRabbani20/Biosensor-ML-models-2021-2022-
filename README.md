@@ -2,7 +2,6 @@
 
 ## Overview
 This repository documents the development of machine learning models to predict the response of **DNA-wrapped Single-Walled Carbon Nanotubes (DNA-SWCNT)** sensors to mycotoxins in food grains. This project combines data from experimental studies of DNA-SWCNTs with supervised machine learning techniques to enhance the detection of **Fumonisin B1 (FB1)**, a common mycotoxin. 
-
 The repository contains data and models that were used to train **Artificial Neural Networks (ANN)** and **Support Vector Machine (SVM)** models, aiming to classify the fluorescence response of the sensor to varying DNA sequences. This work was part of research conducted between 2021-2022.
 
 ---
@@ -27,7 +26,7 @@ The primary goal of this project was to utilize machine learning techniques to p
 
 ## Key Project Highlights
 
-### 1. Machine Learning Models for DNA-SWCNT Sensors
+### 1. Machine Learning Models for DNA-SWCNT Optical Sensors
 Machine learning algorithms were employed to predict the fluorescence response of DNA-wrapped SWCNT sensors when exposed to **Fumonisin B1 (FB1)** mycotoxins. The machine learning process included:
 - **Artificial Neural Networks (ANN)** were used to predict the non-linear behavior of the sensors.
 - **Support Vector Machines (SVM)** provided reliable classification for high and low sensor responses.
