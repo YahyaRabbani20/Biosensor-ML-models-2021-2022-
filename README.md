@@ -1,8 +1,8 @@
 # Mycotoxin Detection Sensor using DNA-SWCNT and Machine Learning (2021-2022)
 
 ## Overview
-This repository documents the development of machine learning models to predict the response of **DNA-wrapped Single-Walled Carbon Nanotubes (DNA-SWCNT)** sensors to mycotoxins in food grains. This project combines data from experimental studies of DNA-SWCNTs with supervised machine learning techniques to enhance the detection of **Fumonisin B1 (FB1)**, a common mycotoxin. 
-The repository contains data and models that were used to train **Artificial Neural Networks (ANN)** and **Support Vector Machine (SVM)** models, aiming to classify the fluorescence response of the sensor to varying DNA sequences. This work was part of research conducted between 2021-2022.
+This repository documents the development of machine learning models to predict the response of **DNA-wrapped Single-Walled Carbon Nanotubes (DNA-SWCNT)** sensors to mycotoxins in food grains. This project combines data from experimental studies of DNA-SWCNTs with supervised machine learning techniques to enhance the detection of **Fumonisin B1 (FB1)**, a common mycotoxin in food grains. 
+The repository contains data and models that were used to train **Artificial Neural Networks (ANN)** and **Support Vector Machine (SVM)** models, aiming to classify the fluorescence response of the sensor to varying DNA sequences. This work was part of research conducted between 2021-2022 as phd exchange at EPFL university.
 
 ---
 
@@ -71,6 +71,6 @@ The repository is structured as follows:
 ---
 
 ## Acknowledgments
-This work was conducted as part of my research at the **Institute of Chemical Sciences and Engineering (ISIC)**, **EPFL**, and the **University of Tehran**. The project reflects my interest in utilizing machine learning for biosensor development, particularly in the detection of harmful mycotoxins in food grains. The authors express their gratitude for the funding support received from various sources, including the **Swiss National Science Foundation (SNSF)**, the **European Research Council (ERC)** through the European Union's Horizon 2020 research and innovation program (grant agreement no. 853005), and the **Honda Research Institute USA Inc.**. Their generous support made this research possible.
+This work was conducted as part of my research at the **Institute of Chemical Sciences and Engineering (ISIC)**, **EPFL**. The project reflects my interest in utilizing machine learning for biosensor development, particularly in the detection of harmful mycotoxins in food grains. The authors express their gratitude for the funding support received from various sources, including the **Swiss National Science Foundation (SNSF)**, the **European Research Council (ERC)** through the European Union's Horizon 2020 research and innovation program (grant agreement no. 853005), and the **Honda Research Institute USA Inc.**. Their generous support made this research possible.
 
 
